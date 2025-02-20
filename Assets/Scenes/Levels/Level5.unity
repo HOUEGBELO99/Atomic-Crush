@@ -11338,7 +11338,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Combustion du soufre\n\n<color=#FFFF00>S</color> + <color=#FF0000>O</color>2\u2192
-    <color=#FFFF00>S</color><color=#FF0000>O</color>2\n"
+    ?\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
   m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}

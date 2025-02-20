@@ -12326,8 +12326,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Combustion du m\xE9thane\n\n<color=#000000>C</color><color=#FFFFFF>H</color>4
-    + <color=#FF0000>O</color>2 \u2192 <color=#000000>C</color><color=#FF0000>O</color>2
-    + <color=#FFFFFF>H</color>2<color=#FF0000>O</color>"
+    + <color=#FF0000>O</color>2 \u2192 ? + <color=#FFFFFF>H</color>2<color=#FF0000>O</color>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
   m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
