@@ -20,7 +20,7 @@ public class AppController : MonoBehaviour {
     {
         // Initialize life variable.
         currentLifes = maxLifes;
-        LIFES = 1;
+        LIFES = 3;
 
         // Start the MainMenu
         SceneManager.LoadScene(1);
