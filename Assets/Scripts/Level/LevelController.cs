@@ -204,14 +204,11 @@ public class LevelController : MonoBehaviour {
         switch(SceneManager.GetActiveScene().name)
         {
             case "Level1":
-                // The answer is 1 Ca / 1 C /1 O
+                // The answer is 1 Ca / 1 O
                 int rightItems = 0;
                 foreach (KeyValuePair<string, int> entry in repo)
                 {
-                    if (entry.Key == "Carbon" && entry.Value == 1)
-                    {
-                        rightItems++;
-                    }
+                    
                     if (entry.Key == "Calcium" && entry.Value == 1)
                     {
                         rightItems++;
@@ -221,7 +218,7 @@ public class LevelController : MonoBehaviour {
                         rightItems++;
                     }
                 }
-                if (rightItems == 3)
+                if (rightItems == 2)
                 {
                     hasWon = true;
                     successText.text = "";
